@@ -1,0 +1,4 @@
+name: GrassMP
+version: 1.0
+main: me.grassmp.GrassMP
+api-version: '1.21'
